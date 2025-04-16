@@ -1,0 +1,1 @@
+https://bgithub.xyz/airockchip/rknn_model_zoo/tree/main/examples/yolo11
